@@ -7,6 +7,8 @@ Mini project 1: 90/100 ***A Simple Calculator Compiler***<br/>
 Mini project 2: 82.3/100 ***Tower Defense***<br/>
 Mini project 2: 100/100 ***Othello AI in CPP***<br/>
 
+***Sample OJ Problems can be found on the NTHU OJ system: https://acm.cs.nthu.edu.tw***<br/>
+
 # Syllabus
 1. How to write faster programs? ----- Data structure and algorithms
 2. How does a computer run programs? ----- Complier and computer system
